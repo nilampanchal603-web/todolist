@@ -1,16 +1,76 @@
-# React + Vite
+# 📝 Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive **Todo List Single Page Application** built using **React JS** and **Tailwind CSS**.
+This project helps users manage daily tasks with a simple and modern user interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* ➕ Add new tasks
+* ❌ Delete tasks
+* ✅ Mark tasks as completed
+* 📱 Responsive design
+* ⚡ Fast performance using Vite
+* 🎨 Beautiful UI with Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React JS
+* Tailwind CSS
+* Vite
+* JavaScript
+
+---
+
+## 📂 Project Structure
+
+```bash id="g7l1u3"
+src/
+ ┣ components/
+ ┣ App.jsx
+ ┣ main.jsx
+ ┗ index.css
+```
+
+---
+
+## ▶️ Run Project Locally
+
+### Clone Repository
+
+```bash id="4g7i0f"
+git clone https://github.com/nilampanchal603-web/todolist.git
+```
+
+### Go to Project Folder
+
+```bash id="i1ixdf"
+cd todolist
+```
+
+### Install Dependencies
+
+```bash id="m0gh5e"
+npm install
+```
+
+### Run Development Server
+
+```bash id="h20s8n"
+npm run dev
+```
+
+---
+
+## 🌐 Live Repository
+
+[View Project](https://github.com/nilampanchal603-web/todolist)
+
+---
+
+## 👩‍💻 Author
+
+**Nilam Panchal**
